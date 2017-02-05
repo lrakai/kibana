@@ -1,3 +1,16 @@
+# 5.2-vector-map Branch Details
+
+This branch is for illustrating a vector map inside of Kibana.
+It works in tandem with the [vectortile-infra](https://github.com/lrakai/vectortile-infra) project.
+Together a vector map styled with a Kibana-inspired them is created.
+Your map visualizations can go from the official Elastic tile service map (8 resolution limit):
+
+![Kibana raster map](https://github.com/lrakai/vectortile-infra/blob/master/images/kibana-raster.gif)
+
+to this:
+
+![Kibana vector map](https://github.com/lrakai/vectortile-infra/blob/master/images/kibana-vector.gif)
+
 # Kibana 5.2.1
 
 Kibana is your window into the [Elastic Stack](https://www.elastic.co/products). Specifically, it's
